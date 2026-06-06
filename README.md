@@ -56,7 +56,7 @@ https://humanizer-backend-xyz.vercel.app
 ### 6. Update the frontend
 Open `humanizer.html` and find this line:
 ```javascript
-const BACKEND_URL = "https://your-backend.vercel.app";
+const BACKEND_URL = "https://try2-web-humanizer.vercel.app";
 ```
 Replace it with your actual Vercel URL.
 
